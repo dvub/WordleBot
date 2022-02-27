@@ -1,4 +1,4 @@
-const { token } = require('./config.json');
+// const { token } = require('./config.json');
 const { Client, Intents, Collection } = require('discord.js');
 const fs = require('fs');
 
@@ -39,5 +39,5 @@ client.on('interactionCreate', async interaction => {
 	}
 });
 
-client.login(token);
+client.login(process.env.DJS_TOKEN);
 module.exports.client = client;
