@@ -15,13 +15,13 @@ for (const file of commandFiles) {
 }
 console.log(`Read ${total} commands.`);
 
-const guildId = '876514829421150238';
-const rest = new REST({ version: '9' }).setToken(token);
+/*
+const guildId = '';
 rest.put(Routes.applicationGuildCommands(clientId, guildId), { body: commands });
-
-
-/* rest.put(
+*/
+const rest = new REST({ version: '9' }).setToken(token);
+rest.put(
 	Routes.applicationCommands(clientId),
 	{ body: commands },
 );
-console.log('Registered global commands'); */
+console.log('Registered global commands');
