@@ -15,18 +15,23 @@ const command = new SlashCommandBuilder()
 		.setDescription('Set the privacy of your game.')
 		.setRequired(true)
 		.addChoice('public', 'public')
-		.addChoice('private', 'private'),
-);
+		.addChoice('private', 'private'))
+;
 module.exports = {
 	data: command,
-	async execute(interaction) {
+	async execute(Games, interaction) {
 		// allows the user to create a new game, public or private
 		const privacy = (interaction.options.get('privacy').value === 'private') ? true : false;
 		const gameID = Math.floor(Math.random() * Date.now()).toString();
 		const solution = Solutions[Math.floor(Math.random() * Solutions.length)];
 		const uid = interaction.member.user.id;
 		const privacyMsg = (privacy === false) ? 'Since it\'s a public game, anyone can play!' : 'Since it\'s a private game, only you can guess!';
-		const game = new Game(gameID, uid, privacy, [], solution);
+		const game = new Game(
+			gameID,
+			uid,
+			privacy,
+			solution,
+		);
 		games.push(game);
 		const msgEmbed = new MessageEmbed()
 			.setColor('#0099ff')
@@ -35,11 +40,11 @@ module.exports = {
 			.setURL('https://www.nytimes.com/games/wordle/index.html')
 			.setAuthor({ name: `${interaction.member.user.username}'s New Game`, iconURL: interaction.member.user.avatarURL() })
 			.setDescription(`<@${interaction.member.user.id}> Started a New Game!`)
-			.addField('Game ID', gameID, true)
-			.addField('How To Play?', `Type \`/guess\` with the game ID above to play in this game! \n${privacyMsg}`)
+			.addField('Game ID', `\`${gameID}\``, true)
+			.addField('How To Play?', `Type \`/guess\` with the game ID above to play in this game! \n${privacyMsg}\nNOTE: Games will timeout in 15 minutes.`)
 			.setTimestamp()
 			.setFooter({ text: `Game ID: ${gameID}` });
-
+		game.pages.push(msgEmbed);
 		await interaction.reply({
 			ephemeral: privacy,
 			embeds: [msgEmbed],

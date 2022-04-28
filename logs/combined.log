@@ -1,0 +1,1829 @@
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:26:45.445Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:46:16.886Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:46:21.340Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:571997657792 guess:slate'
+  },
+  timestamp: '2022-03-05T02:46:27.605Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:47:35.035Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:47:37.341Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:130458644844 guess:slate'
+  },
+  timestamp: '2022-03-05T02:47:42.598Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:50:21.034Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:50:25.615Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:412638410 guess:slate'
+  },
+  timestamp: '2022-03-05T02:50:31.879Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:53:14.729Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:53:18.128Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:311915314734 guess:slate'
+  },
+  timestamp: '2022-03-05T02:53:25.295Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:55:22.277Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:55:24.331Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:575179763361 guess:slate'
+  },
+  timestamp: '2022-03-05T02:55:32.339Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:575179763361 guess:hello'
+  },
+  timestamp: '2022-03-05T02:55:46.659Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:56:46.176Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:56:51.070Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1197754106079 guess:slate'
+  },
+  timestamp: '2022-03-05T02:56:56.643Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:57:47.440Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:57:48.556Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1053364079572 guess:ficls'
+  },
+  timestamp: '2022-03-05T02:57:55.157Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1053364079572 guess:fucks'
+  },
+  timestamp: '2022-03-05T02:57:59.556Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:58:09.644Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:58:13.210Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:480305831012 guess:slate'
+  },
+  timestamp: '2022-03-05T02:58:18.049Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:58:50.149Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:58:54.610Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1573922530641 guess:slate'
+  },
+  timestamp: '2022-03-05T02:59:00.906Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:59:50.671Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T02:59:55.656Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T02:59:59.403Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1049636737233 guess:shits'
+  },
+  timestamp: '2022-03-05T03:00:07.544Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T03:01:53.820Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T03:01:56.528Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1259752771388 guess:slate'
+  },
+  timestamp: '2022-03-05T03:02:01.578Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T03:02:38.613Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T03:02:46.022Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:465204038222 guess:slate'
+  },
+  timestamp: '2022-03-05T03:02:55.437Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:465204038222 guess:fucks'
+  },
+  timestamp: '2022-03-05T03:03:03.425Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:03:05.073Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:03:07.616Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T03:03:44.295Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T03:03:48.171Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1442086168571 guess:shits'
+  },
+  timestamp: '2022-03-05T03:03:54.263Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:03:56.862Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:03:57.578Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:03:58.459Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:03:59.386Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1442086168571 guess:fucks'
+  },
+  timestamp: '2022-03-05T03:04:04.777Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:04:07.363Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '[object Object]'
+  },
+  timestamp: '2022-03-05T03:04:09.043Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T03:08:01.762Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T03:08:03.983Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:977588416622 guess:slate'
+  },
+  timestamp: '2022-03-05T03:08:11.152Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:06:09.372Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:06:14.539Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:385173833853 guess:slate'
+  },
+  timestamp: '2022-03-05T06:06:21.976Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:06:59.208Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:07:00.971Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:714209087478 guess:slate'
+  },
+  timestamp: '2022-03-05T06:07:07.627Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:07:25.526Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:07:55.929Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:08:01.877Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:708142010140 guess:slate'
+  },
+  timestamp: '2022-03-05T06:08:06.804Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:08:19.353Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:08:21.986Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:360030899446 guess:slate'
+  },
+  timestamp: '2022-03-05T06:08:26.921Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:08:39.090Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:08:41.699Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:502855593445 guess:SLATE'
+  },
+  timestamp: '2022-03-05T06:08:50.129Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:09:08.083Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:09:10.195Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:339177489884 guess:slate'
+  },
+  timestamp: '2022-03-05T06:09:17.799Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-03-05T06:10:09.959Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-03-05T06:10:12.953Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:738562876706 guess:aston'
+  },
+  timestamp: '2022-03-05T06:10:23.933Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:738562876706 guess:slate'
+  },
+  timestamp: '2022-03-05T06:10:28.601Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-08T04:05:04.820Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-08T04:05:23.166Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-08T04:07:59.632Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-09T06:43:23.312Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-09T06:44:05.485Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:553840897548 guess:fucks'
+  },
+  timestamp: '2022-04-09T06:44:12.908Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-09T20:51:20.493Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-09T20:51:23.355Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:171519950377 guess:asd'
+  },
+  timestamp: '2022-04-09T20:51:28.092Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:171519950377 guess:fucks'
+  },
+  timestamp: '2022-04-09T20:51:36.658Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:171519950377 guess:slate'
+  },
+  timestamp: '2022-04-09T20:51:42.292Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-09T20:54:54.412Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-09T20:54:58.038Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:32389806781 guess:slate'
+  },
+  timestamp: '2022-04-09T20:55:08.269Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-09T20:55:38.128Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-09T20:55:46.209Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:341579046617 guess:slate'
+  },
+  timestamp: '2022-04-09T20:55:52.762Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:341579046617 guess:slate'
+  },
+  timestamp: '2022-04-09T20:55:57.627Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-10T19:41:54.842Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-10T19:42:49.377Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:313520122641 guess:slate'
+  },
+  timestamp: '2022-04-10T19:43:00.642Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-10T19:43:05.291Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:725819703898 guess:slate'
+  },
+  timestamp: '2022-04-10T19:43:11.628Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-10T19:48:29.229Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-10T19:48:37.193Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:779444777550 guess:plays'
+  },
+  timestamp: '2022-04-10T19:48:44.455Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:779444777550 guess:SLATE'
+  },
+  timestamp: '2022-04-10T19:48:55.071Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-10T19:49:19.180Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-10T19:49:30.182Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:244971368284 guess:slkate'
+  },
+  timestamp: '2022-04-10T19:49:35.684Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:244971368284 guess:slate'
+  },
+  timestamp: '2022-04-10T19:49:40.144Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:244971368284 guess:shits'
+  },
+  timestamp: '2022-04-10T19:49:56.068Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-10T19:52:04.413Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:51:33.850Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-22T23:51:34.860Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1158061851318 guess:slate'
+  },
+  timestamp: '2022-04-22T23:51:39.851Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1158061851318 guess:bring'
+  },
+  timestamp: '2022-04-22T23:51:48.881Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:53:23.887Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:54:09.947Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:54:16.850Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-22T23:54:23.145Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:399936067670 guess:slate'
+  },
+  timestamp: '2022-04-22T23:54:27.593Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:399936067670 guess:prick'
+  },
+  timestamp: '2022-04-22T23:54:34.920Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:59:14.544Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-22T23:59:22.945Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:235097284021 guess:slate'
+  },
+  timestamp: '2022-04-22T23:59:27.862Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:235097284021 guess:prick'
+  },
+  timestamp: '2022-04-22T23:59:33.921Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:59:43.760Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-22T23:59:53.830Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-22T23:59:54.689Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:275883901713 guess:slate'
+  },
+  timestamp: '2022-04-23T00:00:01.099Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:275883901713 guess:prick'
+  },
+  timestamp: '2022-04-23T00:00:05.596Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:07:31.399Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-23T00:07:39.073Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:886281055799 guess:slate'
+  },
+  timestamp: '2022-04-23T00:07:43.530Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:886281055799 guess:plays'
+  },
+  timestamp: '2022-04-23T00:07:50.159Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:886281055799 guess:bring'
+  },
+  timestamp: '2022-04-23T00:07:53.837Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:08:04.254Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-23T00:08:08.677Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:904878219805 guess:slate'
+  },
+  timestamp: '2022-04-23T00:08:16.849Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:904878219805 guess:prick'
+  },
+  timestamp: '2022-04-23T00:08:19.880Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:11:36.243Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-23T00:11:55.938Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:174508006461 guess:prick'
+  },
+  timestamp: '2022-04-23T00:12:03.467Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:174508006461 guess:slate'
+  },
+  timestamp: '2022-04-23T00:12:05.958Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:22:17.055Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:22:27.163Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-23T00:22:29.842Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1559484053537 guess:slate'
+  },
+  timestamp: '2022-04-23T00:22:34.535Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1559484053537 guess:prick'
+  },
+  timestamp: '2022-04-23T00:23:34.698Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:35:39.583Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-23T00:37:01.071Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-23T00:37:08.846Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1081344651932 guess:slate'
+  },
+  timestamp: '2022-04-23T00:37:18.752Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1081344651932 guess:bring'
+  },
+  timestamp: '2022-04-23T00:37:23.134Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1081344651932 guess:chomp'
+  },
+  timestamp: '2022-04-23T00:37:27.754Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1081344651932 guess:shoam'
+  },
+  timestamp: '2022-04-23T00:38:30.843Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:15:26.432Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-24T04:15:27.591Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:777109064582 guess:slate'
+  },
+  timestamp: '2022-04-24T04:15:33.047Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:777109064582 guess:prick'
+  },
+  timestamp: '2022-04-24T04:15:37.566Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:777109064582 guess:shits'
+  },
+  timestamp: '2022-04-24T04:15:49.623Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:16:13.229Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-24T04:16:20.011Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1385661734184 guess:shits'
+  },
+  timestamp: '2022-04-24T04:16:25.145Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1385661734184 guess:prick'
+  },
+  timestamp: '2022-04-24T04:16:30.547Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:18:11.386Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-24T04:18:13.423Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:873833373311 guess:shits'
+  },
+  timestamp: '2022-04-24T04:18:17.807Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:873833373311 guess:fucks'
+  },
+  timestamp: '2022-04-24T04:18:20.582Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:43:52.467Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-24T04:44:05.918Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1590905659337 guess:slate'
+  },
+  timestamp: '2022-04-24T04:44:11.141Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1590905659337 guess:bring'
+  },
+  timestamp: '2022-04-24T04:44:16.895Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1590905659337 guess:chomp'
+  },
+  timestamp: '2022-04-24T04:44:23.663Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1590905659337 guess:fucks'
+  },
+  timestamp: '2022-04-24T04:44:29.103Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1590905659337 guess:shits'
+  },
+  timestamp: '2022-04-24T04:44:32.876Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1590905659337 guess:damns'
+  },
+  timestamp: '2022-04-24T04:44:37.889Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:46:28.539Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:50:26.650Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-24T04:50:33.969Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:339831301776 guess:slate'
+  },
+  timestamp: '2022-04-24T04:50:39.713Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:51:11.793Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-24T04:51:22.000Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-25T02:05:31.068Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T02:13:43.432Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T02:13:47.996Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:13:53.298Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:14:01.538Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:14:02.681Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:14:06.627Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:14:08.528Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:14:11.756Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:769065332355 guess:slate'
+  },
+  timestamp: '2022-04-26T02:14:30.453Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T02:14:43.748Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T02:14:58.353Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T02:15:02.026Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:277534015668 guess:slate'
+  },
+  timestamp: '2022-04-26T02:15:08.553Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:277534015668 guess:buyer'
+  },
+  timestamp: '2022-04-26T02:15:15.541Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T02:22:34.073Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T02:22:44.140Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T02:23:05.658Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T02:23:14.660Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:455459764388 guess:slate'
+  },
+  timestamp: '2022-04-26T02:23:18.464Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:455459764388 guess:aloof'
+  },
+  timestamp: '2022-04-26T02:23:21.876Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:11:57.717Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T03:12:01.658Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1206629859898 guess:fucks'
+  },
+  timestamp: '2022-04-26T03:12:08.831Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:12:50.434Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:13:00.694Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T03:13:02.329Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1206629859898 guess:slate'
+  },
+  timestamp: '2022-04-26T03:13:05.359Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:13:32.440Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:13:50.027Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:14:16.286Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:14:39.785Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:14:49.703Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T03:14:57.126Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:441978561381 guess:slate'
+  },
+  timestamp: '2022-04-26T03:15:05.798Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:441978561381 guess:cabal'
+  },
+  timestamp: '2022-04-26T03:15:12.256Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:16:04.203Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T03:16:10.271Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:145563308149 guess:slate'
+  },
+  timestamp: '2022-04-26T03:16:14.667Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:145563308149 guess:salty'
+  },
+  timestamp: '2022-04-26T03:16:18.781Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:20:16.557Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-26T03:20:20.150Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1473433839275 guess:slate'
+  },
+  timestamp: '2022-04-26T03:20:24.161Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:1473433839275 guess:bleed'
+  },
+  timestamp: '2022-04-26T03:20:27.254Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:43:24.161Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-26T03:46:40.041Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-26T03:46:40.613Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-28T01:50:46.765Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-28T01:50:47.246Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-28T01:58:31.944Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-28T01:59:22.006Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-28T01:59:53.855Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-28T02:00:52.993Z'
+}
+{
+  level: 'info',
+  message: 'Successfully connected to the database.',
+  timestamp: '2022-04-28T02:01:10.285Z'
+}
+{
+  level: 'info',
+  message: 'Ready: logged in as WordleBot#3501.',
+  timestamp: '2022-04-28T02:01:10.814Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/play privacy:public'
+  },
+  timestamp: '2022-04-28T02:01:46.088Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:827612426050 guess:slate'
+  },
+  timestamp: '2022-04-28T02:01:53.802Z'
+}
+{
+  level: 'info',
+  message: {
+    user: 'dub#1222',
+    guild: 'throwaway#general',
+    interaction: '/guess game-id:827612426050 guess:joist'
+  },
+  timestamp: '2022-04-28T02:01:57.716Z'
+}

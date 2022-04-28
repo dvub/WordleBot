@@ -1,7 +1,16 @@
+// fires when an interaction occurs. used for logging purposes.
+
 module.exports = {
 	name: 'interactionCreate',
-	execute(interaction) {
-		const date = new Date().toLocaleString('en-GB', { timeZone: 'PST' });
-		console.log(`${date}: ${interaction.user.tag} in ${interaction.guild.name}#${interaction.channel.name} triggered an interaction.`);
+	execute(logger, interaction) {
+		logger.log({
+			level: 'info',
+			message: {
+				user: interaction.user.tag,
+				guild: `${interaction.guild.name}#${interaction.channel.name}`,
+				interaction: interaction.toString(),
+
+			},
+		});
 	},
 };
